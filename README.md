@@ -7,7 +7,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://img.shields.io/twitter/follow/nadindadev?label=Follow&style=social"></a>
+  <a href="https://twitter.com/nadindadev"><img src="https://img.shields.io/twitter/follow/nadindadev?label=Follow&style=social"></a>
 </p>
 
 <p align='center'>
